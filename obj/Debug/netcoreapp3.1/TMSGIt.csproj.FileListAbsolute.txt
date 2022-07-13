@@ -12,3 +12,17 @@ C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\obj\Debug\netcor
 C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\obj\Debug\netcoreapp3.1\TMSGIt.dll
 C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\obj\Debug\netcoreapp3.1\TMSGIt.pdb
 C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\obj\Debug\netcoreapp3.1\TMSGIt.genruntimeconfig.cache
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\bin\Debug\netcoreapp3.1\TMSGIt.exe
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\bin\Debug\netcoreapp3.1\TMSGIt.deps.json
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\bin\Debug\netcoreapp3.1\TMSGIt.runtimeconfig.json
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\bin\Debug\netcoreapp3.1\TMSGIt.runtimeconfig.dev.json
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\bin\Debug\netcoreapp3.1\TMSGIt.dll
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\bin\Debug\netcoreapp3.1\TMSGIt.pdb
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\obj\Debug\netcoreapp3.1\TMSGIt.csproj.AssemblyReference.cache
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\obj\Debug\netcoreapp3.1\TMSGIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\obj\Debug\netcoreapp3.1\TMSGIt.AssemblyInfoInputs.cache
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\obj\Debug\netcoreapp3.1\TMSGIt.AssemblyInfo.cs
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\obj\Debug\netcoreapp3.1\TMSGIt.csproj.CoreCompileInputs.cache
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\obj\Debug\netcoreapp3.1\TMSGIt.dll
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\obj\Debug\netcoreapp3.1\TMSGIt.pdb
+C:\Users\hijik\Visual Studio Community\repos\TMS\lesson2\TMSGIt\TMSTest\obj\Debug\netcoreapp3.1\TMSGIt.genruntimeconfig.cache

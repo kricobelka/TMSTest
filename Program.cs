@@ -37,7 +37,7 @@ namespace TMSGIt
                     case 2:
                         {
                             Console.WriteLine("Enter your age");
-                            Name = Console.ReadLine();
+                            age = int.Parse(Console.ReadLine());
                             break;
                         }
                     case -2:
@@ -45,7 +45,6 @@ namespace TMSGIt
                             Console.WriteLine(Name);
                             Console.WriteLine(Surname);
                             Console.WriteLine(age);
-                            Name = Console.ReadLine();
                             break;
                         }
                     case -1:
@@ -53,7 +52,7 @@ namespace TMSGIt
                             Console.WriteLine("Program is cancelled");
                             break;
                         }
-                        
+
                     default:
                         {
                             Console.WriteLine("Wrong number is indicated");
@@ -61,29 +60,30 @@ namespace TMSGIt
                         }
                         // with if:
                 }
-                if (response == 0)
-                {
-                    Console.WriteLine("Enter your name");
-                    Name = Console.ReadLine();
-                }
-                if (response == 1)
-                {
-                    Console.WriteLine("Enter your surname");
-                    Surname = Console.ReadLine();
-                }
-                if (response == 2)
-                {
-                    Console.WriteLine("Enter your age");
-                    age = int.Parse(Console.ReadLine());
-                }
-                if (response == -2)
-                {
-                    Console.WriteLine(Name);
-                    Console.WriteLine(Surname);
-                    Console.WriteLine(age);
-                }
+                //    if (response == 0)
+                //    {
+                //        Console.WriteLine("Enter your name");
+                //        Name = Console.ReadLine();
+                //    }
+                //    if (response == 1)
+                //    {
+                //        Console.WriteLine("Enter your surname");
+                //        Surname = Console.ReadLine();
+                //    }
+                //    if (response == 2)
+                //    {
+                //        Console.WriteLine("Enter your age");
+                //        age = int.Parse(Console.ReadLine());
+                //    }
+                //    if (response == -2)
+                //    {
+                //        Console.WriteLine(Name);
+                //        Console.WriteLine(Surname);
+                //        Console.WriteLine(age);
+                //    }
+                //}
+                //Console.WriteLine(Name);
             }
-            Console.WriteLine(Name);
             Console.ReadKey();
         }
     }

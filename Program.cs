@@ -16,12 +16,12 @@ namespace TMSGIt
             while (response != -1)
             {
                 Console.WriteLine("Enter 0 to enter name" + Environment.NewLine +
-                                    "Enter 1 to enter surname" + Environment.NewLine +
+                                   "Enter 1 to enter surname" + Environment.NewLine +
                                    "Enter 2 to enter age" + Environment.NewLine +
-                                    "Enter -1 to exit" + Environment.NewLine +
-                                    "Enter -2 to enter summary" + Environment.NewLine +
-                                    "Enter 3 to enter your height" + Environment.NewLine +
-                                    "Enter 4 to enter your weight");
+                                   "Enter -1 to exit" + Environment.NewLine +
+                                   "Enter -2 to enter summary" + Environment.NewLine +
+                                   "Enter 3 to enter your height" + Environment.NewLine +
+                                   "Enter 4 to enter your weight");
                 response = int.Parse(Console.ReadLine());
                 //with switch-case:
                 switch (response)
@@ -41,7 +41,7 @@ namespace TMSGIt
                     case 2:
                         {
                             Console.WriteLine("Enter your age");
-                            age = int.Parse(Console.ReadLine());
+                            age = int.Parse (Console.ReadLine());
                             break;
                         }
                     case -2:
@@ -61,22 +61,22 @@ namespace TMSGIt
                     case 3:
                         {
                             Console.WriteLine("Enter your height");
-                            height = int.Parse(Console.ReadLine());
+                            height = int.Parse (Console.ReadLine());
                             break;
                         }
                     case 4:
                         {
                             Console.WriteLine("Enter your weight");
-                            height = int.Parse(Console.ReadLine());
+                            weight = int.Parse(Console.ReadLine());
                             break;
                         }
                     default:
                         {
-                            Console.WriteLine("Wrong number is indicated");
-                            break;
+                                Console.WriteLine("Wrong number is indicated");
+                                break;
+                           
+                            // with if:
                         }
-
-                        // with if:
                         //if (response == 0)
                         //{
                         //    Console.WriteLine("Enter your name");
@@ -99,9 +99,9 @@ namespace TMSGIt
                         //    Console.WriteLine(age);
                         //    Console.WriteLine(height);
                         //}
-                        Console.ReadKey();
                 }
             }
+            Console.ReadKey();
         }
     }
 }

@@ -15,11 +15,11 @@ namespace TMSGIt
             while (response != -1)
             {
                 Console.WriteLine("Enter 0 to enter name" + Environment.NewLine +
-                                    "Enter 1 to enter surname" + Environment.NewLine +
+                                   "Enter 1 to enter surname" + Environment.NewLine +
                                    "Enter 2 to enter age" + Environment.NewLine +
-                                    "Enter -1 to exit" + Environment.NewLine +
-                                    "Enter -2 to enter summary" + Environment.NewLine +
-                                    "Enter your height");
+                                   "Enter -1 to exit" + Environment.NewLine +
+                                   "Enter -2 to enter summary" + Environment.NewLine +
+                                   "Enter 3 to enter your height");
                 response = int.Parse(Console.ReadLine());
                 //with switch-case:
                 switch (response)
@@ -91,8 +91,8 @@ namespace TMSGIt
                         //    Console.WriteLine(height);
                         //}
                 }
-                Console.ReadKey();
             }
+            Console.ReadKey();
         }
     }
 }
